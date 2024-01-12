@@ -1,0 +1,14 @@
+,Assembly,SNPs,Indels,Assembler
+0,1,16,632,Flye
+1,2,14,650,Miniasm and Minipolish
+2,3,68,877,Raven
+3,4,7,633,Flye
+4,5,20,664,Miniasm and Minipolish
+5,6,73,889,Raven
+6,7,21,596,Flye
+7,8,11,637,Miniasm and Minipolish
+8,9,64,928,Raven
+9,10,15,610,Flye
+10,11,18,628,Miniasm and Minipolish
+11,12,84,958,Raven
+12,13,4,439,Pre-Medaka
